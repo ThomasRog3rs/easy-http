@@ -2,7 +2,7 @@
 
 ## About
 
-This is a simple JavaScript Libary to handle HTTP requests using the XHR object.
+This is a simple HTTP library made with the Fetch API and ES6 OOP
 
 ## Usage
 
