@@ -4,7 +4,7 @@
  * Inspired by Brad Traversy
  *
  * @version 3.0.0
- * @author  Tom Rogers
+ * @author  Thomas Rogers
  * @license MIT
  *
  **/
