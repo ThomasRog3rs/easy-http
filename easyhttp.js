@@ -9,7 +9,7 @@
  *
  **/
 
-class HttpAjax {
+class easyHTTP {
 	//This function is to format the data in the correct content type
 	async formatData(contentType, data){
 		let formattedData;
