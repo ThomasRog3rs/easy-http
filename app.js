@@ -1,4 +1,4 @@
-const http = new EasyHTTP();
+const http = new easyHTTP();
 
 // Get Users
 http
